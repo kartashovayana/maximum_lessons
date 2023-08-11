@@ -1,3 +1,100 @@
+<<<<<<< HEAD
 .block1 {
     margin-bottom: 50px;
 }
+=======
+body { background: #757575e7;
+}
+
+.main_title {
+    color: darkred;
+    text-align: center;
+    font-family: segoe script;
+}
+
+.main_title2 {
+    color: black;
+    font-family: impact;
+    font-size:20px;
+    text-shadow: green 2px 3px 4px;
+}
+
+.zlodeyzagalovok {
+    color: darkred;
+    text-shadow: black 2px 1px 1px;
+}
+
+.braznic{
+    width:30%
+}
+
+.zlodey {
+font-family: constantia;
+font-size:110%;
+background: #595757e7;
+    width: 70%;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.felixzagolovok {
+    color: darkred;
+    text-shadow: black 2px 1px 1px;
+}
+.felix {
+    background: #595757e7;
+    width: 60%;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    font-size:120%;
+}
+
+.felixphoto {
+    width:50%;
+    padding-left:10%;
+}
+
+.felix2 {
+color: #ff0f0f;
+font-family: franklin gothic medium;
+font-size:120%;
+}
+
+
+.vs {
+    font-size:130%;
+    color: darkred;
+    text-shadow: black 2px 1px 1px;
+}
+
+.LucaAndAdrien {
+    width: 50%;
+}
+
+.block1 {
+    border: 5px solid black;
+    border-radius: 40px;
+    width: 25%;
+    background: #595757e7;
+    width: 30%;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    font-size:120%;
+}
+
+.ThEend {
+ color:black;
+ text-align: center;
+ font-family: impact;
+    font-size:24px;
+    text-shadow:green 2px 3px 3px;
+}
+
+.photo {
+    width: 30%;
+    padding-left: 35%
+}
+>>>>>>> b1b62b465dae6b321ff0edc9b228f65ce1df7c2c
